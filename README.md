@@ -1,5 +1,5 @@
 # Python OpenAI Assistant API  
-  Integrate the assistants api in discord  
+  POC discord integration for assistants API
 
 # Note:     
   create an assistant in the platform.openai.com area and grab the id. then install pycord, and whatever else the import says. After that create a discord developer portal application allow all text rights for bot (middle column) this needs to be able to create threads etc. 
